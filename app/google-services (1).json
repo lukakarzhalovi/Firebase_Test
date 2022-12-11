@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328596916017",
+    "project_id": "mamaqalaqidan",
+    "storage_bucket": "mamaqalaqidan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328596916017:android:a7c2316e4aee9753ce1210",
+        "android_client_info": {
+          "package_name": "com.example.mamaqalaqidan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328596916017-fo5svu9nblifh4dak3kevabmq0is9h64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOk5CBd8g_-yoFoEoLaJFORiMt5QwCJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328596916017-fo5svu9nblifh4dak3kevabmq0is9h64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
